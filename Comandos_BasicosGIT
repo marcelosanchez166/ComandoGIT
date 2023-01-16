@@ -1,0 +1,25 @@
+Git es un sistema de control de versiones que te permite llevar un registro de los cambios en tus archivos y colaborar con otros desarrolladores. Aquí hay algunos comandos básicos de Git que puedes utilizar en la línea de comandos:
+
+git init: Inicializa un repositorio Git en el directorio actual.
+
+git add <file>: Agrega un archivo al área de preparación para ser incluido en el próximo commit.
+
+git commit -m "mensaje": Crea un nuevo commit con los cambios en el área de preparación y agrega un mensaje de commit.
+
+git status: Muestra el estado actual del repositorio, incluyendo los cambios no confirmados y los archivos rastreados/no rastreados.
+
+git log: Muestra un historial de los commits del repositorio.
+
+git diff: Muestra las diferencias entre los cambios no confirmados y la última versión confirmada.
+
+git checkout <branch>: Cambia a una rama específica o revierte los cambios en el directorio de trabajo.
+
+git branch: Muestra una lista de ramas existentes en el repositorio.
+
+git merge <branch>: Combina los cambios de una rama específica con la rama actual.
+
+git pull: Descarga los cambios más recientes de un repositorio remoto y los combina con el repositorio local.
+
+git push: Sube los cambios locales al repositorio remoto.
+
+Estos son solo algunos de los comandos básicos de Git, hay muchos otros comandos y opciones disponibles para realizar tareas más avanzadas. Es recomendable leer la documentación de git y practicar con ejercicios para profundizar en el uso de Git.
